@@ -14,7 +14,7 @@ for g in $guilds ; do
 	
 	python ~/bin/swgoh.help.py $args[2] $args[1] || (sleep 60 && python ~/bin/swgoh.help.py $args[2] $args[1]) || (sleep 120 && python ~/bin/swgoh.help.py $args[2] $args[1]) || exit 1
 	
-	time ~/bin/swgoh --guild $args[1].json --unbrand --site docs 
+	time ~/bin/swgoh-tool --guild $args[1].json --unbrand --site docs 
 #	sleep 60
 done
 
