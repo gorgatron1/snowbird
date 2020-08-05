@@ -2,23 +2,22 @@
 
 guilds=(
 	'report 564121831'
+	'dr 926422172'
 )
 	
 for g in $guilds ; do 
 	args=("${(@s/ /)g}")
 	echo "==============="
 	echo "$args[1]"
+
+	echo "~/bin/swgoh-tool --fetch $args[2] $args[1]"
+	time ~/bin/swgoh-tool --fetch $args[2] $args[1] || exit 1
 	
-	echo "FETCH: $guild"
-	echo "python ~/bin/swgoh.help.py $args[2] $args[1]"
-	
-	python ~/bin/swgoh.help.py $args[2] $args[1] || (sleep 60 && python ~/bin/swgoh.help.py $args[2] $args[1]) || (sleep 120 && python ~/bin/swgoh.help.py $args[2] $args[1]) || exit 1
-	
-	time ~/bin/swgoh-tool --guild $args[1].json --unbrand --site docs 
-#	sleep 60
+	echo "~/bin/swgoh-tool --guild $args[1].json --site docs"
+	time ~/bin/swgoh-tool --guild $args[1].json --unbrand --site docs
 done
 
 echo "==============="
 echo "ALLIANCE"
 
-# time ~/bin/swgoh --alliance docs *.json
+time ~/bin/swgoh-tool --unbrand --alliance docs *.json
