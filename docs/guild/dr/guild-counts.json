@@ -1,1 +1,1 @@
-{"y":"count","dates":["08\/05\/2020"],"series":[{"name":"Tattooine Cowboys","id":"dr","values":{"Squads":[72],"G10+":[431],"Def":[50],"G12+":[193],"players":[22],"G13+":[37],"7*":[1607],"Zetas":[437],"Off":[43]}}]}
+{"y":"count","dates":["08\/05\/2020","08\/06\/2020"],"series":[{"name":"Tattooine Cowboys","id":"dr","values":{"Squads":[72,80],"players":[22,25],"Def":[50,57],"G12+":[193,264],"7*":[1607,1773],"G13+":[37,52],"G10+":[431,519],"Zetas":[437,518],"Off":[43,46]}}]}

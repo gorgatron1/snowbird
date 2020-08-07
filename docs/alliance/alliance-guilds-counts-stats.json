@@ -1,1 +1,1 @@
-{"y":"count","dates":["08\/05\/2020"],"series":[{"name":"Tattooine Cowboys","id":"dr","values":{"players":[22]}},{"name":"Knights of Round","id":"report","values":{"players":[50]}}]}
+{"y":"count","dates":["08\/05\/2020","08\/06\/2020"],"series":[{"name":"Tattooine Cowboys","id":"dr","values":{"players":[22,25]}},{"name":"Knights of Round","id":"report","values":{"players":[50,50]}}]}
