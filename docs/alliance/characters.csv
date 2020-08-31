@@ -1,9 +1,9 @@
 Name,Count,G10+,G12+,G13,leader zeta,other zeta
-"ARC Trooper",30,14,12,5,0,17
+"ARC Trooper",31,14,12,5,0,17
 "Aayla Secura",45,1,0,0,0,0
 "Admiral Ackbar",73,32,14,2,0,0
-"Admiral Piett",42,0,0,0,0,1
-"Ahsoka Tano",73,50,31,8,0,42
+"Admiral Piett",48,0,0,0,0,1
+"Ahsoka Tano",73,50,31,9,0,42
 "Ahsoka Tano (Fulcrum)",66,9,8,0,0,4
 "Amilyn Holdo",61,4,2,2,0,2
 "Asajj Ventress",69,54,44,14,29,42
@@ -13,22 +13,22 @@ Name,Count,G10+,G12+,G13,leader zeta,other zeta
 "BB-8",60,42,27,3,0,60
 "Barriss Offee",56,19,6,0,0,13
 "Bastila Shan",69,54,42,7,50,0
-"Bastila Shan (Fallen)",62,45,32,17,0,42
+"Bastila Shan (Fallen)",62,46,32,17,0,43
 "Baze Malbus",51,11,5,0,0,0
-"Biggs Darklighter",72,34,26,2,0,0
+"Biggs Darklighter",72,35,26,2,0,0
 "Bistan",67,2,0,0,0,0
 "Boba Fett",71,55,48,4,0,43
 "Bodhi Rook",65,1,0,0,0,0
-"Bossk",64,51,46,13,52,37
-"C-3PO",44,35,30,10,0,65
-"CC-2224 "Cody"",65,15,4,0,6,0
+"Bossk",65,51,46,14,52,37
+"C-3PO",44,35,30,12,0,65
+"CC-2224 "Cody"",65,16,4,0,6,0
 "CT-21-0408 "Echo"",67,28,17,6,0,20
-"CT-5555 "Fives"",70,30,22,6,0,48
+"CT-5555 "Fives"",70,30,22,7,0,48
 "CT-7567 "Rex"",67,35,30,6,0,25
 "Cad Bane",68,48,13,0,0,0
 "Canderous Ordo",62,32,16,0,0,16
 "Captain Han Solo",29,5,4,2,0,4
-"Captain Phasma",71,18,9,1,9,0
+"Captain Phasma",71,19,9,2,9,0
 "Cara Dune",56,0,0,0,0,1
 "Carth Onasi",62,41,10,0,37,0
 "Cassian Andor",64,14,3,0,0,8
@@ -40,7 +40,7 @@ Name,Count,G10+,G12+,G13,leader zeta,other zeta
 "Clone Sergeant - Phase I",73,25,6,0,0,0
 "Clone Wars Chewbacca",73,3,2,0,0,1
 "Colonel Starck",47,7,6,1,0,7
-"Commander Luke Skywalker",62,56,54,27,48,99
+"Commander Luke Skywalker",62,57,54,27,48,99
 "Coruscant Underworld Police",60,0,0,0,0,0
 "Count Dooku",72,51,27,2,0,30
 "Darth Malak",24,22,14,10,0,44
@@ -56,31 +56,31 @@ Name,Count,G10+,G12+,G13,leader zeta,other zeta
 "Dengar",71,27,20,0,0,14
 "Director Krennic",52,3,1,0,1,0
 "Droideka",59,20,15,5,0,20
-"Eeth Koth",58,4,0,0,0,0
+"Eeth Koth",59,4,0,0,0,0
 "Embo",58,4,2,0,1,3
 "Emperor Palpatine",72,60,43,14,50,43
 "Enfys Nest",62,24,6,1,0,17
 "Ewok Elder",73,46,23,0,0,0
 "Ewok Scout",73,22,4,0,0,0
 "Ezra Bridger",73,47,20,0,0,24
-"Finn",66,42,30,6,23,0
+"Finn",66,43,30,6,24,0
 "First Order Executioner",63,27,11,3,0,0
 "First Order Officer",67,34,12,4,0,0
 "First Order SF TIE Pilot",62,5,4,2,0,0
-"First Order Stormtrooper",71,12,8,3,0,9
+"First Order Stormtrooper",71,12,9,3,0,9
 "First Order TIE Pilot",73,33,10,4,0,10
 "Gamorrean Guard",30,1,0,0,0,0
 "Gar Saxon",65,3,0,0,1,0
 "Garazeb "Zeb" Orrelios",73,16,7,1,0,15
-"General Grievous",66,40,28,14,34,31
-"General Hux",58,6,5,2,0,6
+"General Grievous",66,40,28,14,35,31
+"General Hux",58,6,5,3,0,6
 "General Kenobi",58,48,45,28,0,40
 "General Skywalker",6,5,5,5,5,15
 "General Veers",67,25,8,1,0,15
 "Geonosian Brood Alpha",46,40,21,4,35,38
-"Geonosian Soldier",73,43,29,1,0,0
+"Geonosian Soldier",73,44,30,1,0,0
 "Geonosian Spy",65,40,15,0,0,0
-"Grand Admiral Thrawn",68,46,40,6,14,44
+"Grand Admiral Thrawn",68,46,40,6,15,44
 "Grand Master Yoda",70,60,56,27,33,58
 "Grand Moff Tarkin",73,45,22,1,12,15
 "Greedo",70,36,18,0,0,15
@@ -91,7 +91,7 @@ Name,Count,G10+,G12+,G13,leader zeta,other zeta
 "Hermit Yoda",45,27,17,5,0,31
 "Hoth Rebel Scout",69,4,2,0,0,0
 "Hoth Rebel Soldier",68,2,1,0,0,0
-"IG-100 MagnaGuard",72,21,15,3,0,13
+"IG-100 MagnaGuard",72,22,15,3,0,13
 "IG-86 Sentinel Droid",73,3,0,0,0,0
 "IG-88",67,50,15,0,0,17
 "Ima-Gun Di",48,2,0,0,0,0
@@ -100,7 +100,7 @@ Name,Count,G10+,G12+,G13,leader zeta,other zeta
 "Jango Fett",67,40,23,2,19,25
 "Jawa",70,2,1,0,0,0
 "Jawa Engineer",37,3,1,0,0,0
-"Jawa Scavenger",63,3,2,1,0,0
+"Jawa Scavenger",64,3,2,1,0,0
 "Jedi Consular",73,20,2,0,0,0
 "Jedi Knight Anakin",63,44,38,14,0,35
 "Jedi Knight Guardian",72,1,0,0,0,0
@@ -113,7 +113,7 @@ Name,Count,G10+,G12+,G13,leader zeta,other zeta
 "Kanan Jarrus",72,27,9,1,0,16
 "Kit Fisto",47,2,0,0,0,0
 "Kylo Ren",68,41,29,8,0,29
-"Kylo Ren (Unmasked)",71,35,30,14,39,28
+"Kylo Ren (Unmasked)",71,35,30,14,39,29
 "L3-37",61,1,1,0,0,0
 "Lando Calrissian",64,31,6,4,0,0
 "Lobot",55,2,0,0,0,0
@@ -130,15 +130,15 @@ Name,Count,G10+,G12+,G13,leader zeta,other zeta
 "Nightsister Initiate",68,5,2,2,0,2
 "Nightsister Spirit",69,8,6,0,0,0
 "Nightsister Zombie",69,39,17,0,0,0
-"Nute Gunray",65,36,5,0,0,16
-"Obi-Wan Kenobi (Old Ben)",71,38,23,2,0,26
+"Nute Gunray",65,37,5,0,0,16
+"Obi-Wan Kenobi (Old Ben)",71,38,23,3,0,26
 "Old Daka",66,41,20,6,0,23
 "Padmé Amidala",55,36,30,17,42,39
 "Pao",55,3,0,0,0,0
 "Paploo",68,43,10,0,0,25
 "Plo Koon",65,13,2,0,0,0
 "Poe Dameron",69,22,10,2,0,0
-"Poggle the Lesser",69,45,25,0,0,0
+"Poggle the Lesser",69,45,27,0,0,0
 "Princess Leia",73,38,13,1,0,16
 "Qi'ra",61,12,1,0,0,2
 "Qui-Gon Jinn",69,22,9,0,8,0
@@ -150,7 +150,7 @@ Name,Count,G10+,G12+,G13,leader zeta,other zeta
 "Resistance Pilot",73,6,2,2,0,0
 "Resistance Trooper",64,26,12,3,0,0
 "Rey",1,1,1,1,1,5
-"Rey (Jedi Training)",46,45,42,17,44,74
+"Rey (Jedi Training)",47,45,43,17,44,74
 "Rey (Scavenger)",69,51,16,3,0,13
 "Rose Tico",57,1,1,1,0,0
 "Royal Guard",73,9,2,0,0,0
@@ -160,7 +160,7 @@ Name,Count,G10+,G12+,G13,leader zeta,other zeta
 "Shaak Ti",59,22,20,3,18,22
 "Shoretrooper",50,7,1,0,0,0
 "Sith Assassin",59,2,2,0,0,0
-"Sith Empire Trooper",54,17,14,6,0,0
+"Sith Empire Trooper",54,18,14,6,0,0
 "Sith Marauder",63,7,7,0,0,0
 "Sith Trooper",60,2,2,2,0,2
 "Snowtrooper",73,7,2,1,0,0
@@ -172,19 +172,19 @@ Name,Count,G10+,G12+,G13,leader zeta,other zeta
 "Talia",73,24,9,1,0,0
 "Teebo",73,16,7,0,0,0
 "The Mandalorian",62,4,1,1,2,3
-"Threepio & Chewie",57,0,0,0,0,2
+"Threepio & Chewie",58,0,0,0,0,2
 "Tusken Raider",62,1,0,0,0,0
 "Tusken Shaman",63,2,0,0,0,0
 "URoRRuR'R'R",39,0,0,0,0,0
 "Ugnaught",66,0,0,0,0,0
-"Vandor Chewbacca",61,0,0,0,0,0
+"Vandor Chewbacca",62,0,0,0,0,0
 "Veteran Smuggler Chewbacca",67,7,3,2,0,4
 "Veteran Smuggler Han Solo",66,10,4,2,0,4
 "Visas Marr",62,2,2,2,0,4
-"Wampa",45,20,16,8,0,30
+"Wampa",46,20,16,8,0,30
 "Wedge Antilles",69,29,12,1,0,0
 "Wicket",68,43,13,0,0,31
 "Young Han Solo",66,3,1,0,0,2
-"Young Lando Calrissian",66,4,0,0,0,0
+"Young Lando Calrissian",66,5,0,0,0,0
 "Zaalbar",64,35,16,0,0,25
 "Zam Wesell",65,17,8,0,0,7
