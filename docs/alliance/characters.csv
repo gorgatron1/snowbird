@@ -2,16 +2,16 @@ Name,Count,G10+,G12+,G13,leader zeta,other zeta
 "ARC Trooper",33,15,12,6,0,16
 "Aayla Secura",43,1,0,0,0,0
 "Admiral Ackbar",71,35,15,2,0,0
-"Admiral Piett",57,0,0,0,0,1
+"Admiral Piett",59,0,0,0,0,1
 "Ahsoka Tano",71,52,33,10,0,44
 "Ahsoka Tano (Fulcrum)",62,9,8,0,0,4
 "Amilyn Holdo",59,5,2,2,0,3
 "Asajj Ventress",68,52,42,13,28,41
 "Aurra Sing",53,7,5,0,2,5
-"B1 Battle Droid",56,31,24,15,0,26
+"B1 Battle Droid",56,32,24,15,0,26
 "B2 Super Battle Droid",56,26,18,8,0,26
 "BB-8",60,41,26,4,0,60
-"Barriss Offee",54,18,7,0,0,13
+"Barriss Offee",55,18,7,0,0,13
 "Bastila Shan",68,55,41,8,51,0
 "Bastila Shan (Fallen)",61,45,38,19,0,44
 "Baze Malbus",54,11,5,0,0,0
@@ -29,7 +29,7 @@ Name,Count,G10+,G12+,G13,leader zeta,other zeta
 "Canderous Ordo",60,34,17,0,0,19
 "Captain Han Solo",34,6,6,6,0,4
 "Captain Phasma",69,20,11,3,9,0
-"Cara Dune",55,1,1,0,0,1
+"Cara Dune",56,1,1,0,0,1
 "Carth Onasi",61,42,11,0,37,0
 "Cassian Andor",64,14,4,0,0,8
 "Chewbacca",51,36,28,17,0,67
@@ -39,26 +39,26 @@ Name,Count,G10+,G12+,G13,leader zeta,other zeta
 "Chopper",71,29,6,1,0,0
 "Clone Sergeant - Phase I",71,25,5,0,0,0
 "Clone Wars Chewbacca",71,3,2,0,0,1
-"Colonel Starck",47,9,6,1,0,7
+"Colonel Starck",48,9,6,1,0,7
 "Commander Luke Skywalker",60,55,53,30,50,98
 "Coruscant Underworld Police",62,0,0,0,0,0
-"Count Dooku",70,53,30,5,0,31
+"Count Dooku",70,53,30,5,0,32
 "Darth Malak",29,27,16,10,0,51
 "Darth Maul",66,33,6,0,11,0
 "Darth Nihilus",64,34,29,3,16,24
-"Darth Revan",41,41,37,27,40,77
-"Darth Sidious",64,21,7,1,0,7
-"Darth Sion",57,30,21,3,0,26
+"Darth Revan",41,41,38,27,40,77
+"Darth Sidious",64,21,7,1,0,8
+"Darth Sion",57,30,21,3,0,27
 "Darth Traya",51,25,18,2,29,26
-"Darth Vader",71,64,56,27,46,107
+"Darth Vader",71,64,56,28,46,107
 "Dathcha",65,14,2,0,0,0
 "Death Trooper",60,8,3,0,0,1
 "Dengar",69,26,18,0,0,13
-"Director Krennic",51,3,1,0,2,0
+"Director Krennic",51,4,1,0,2,0
 "Droideka",58,21,16,7,0,24
 "Eeth Koth",56,3,0,0,0,0
 "Embo",56,4,2,0,1,3
-"Emperor Palpatine",70,56,45,19,51,47
+"Emperor Palpatine",70,57,45,19,51,47
 "Enfys Nest",58,26,7,1,0,18
 "Ewok Elder",70,49,25,0,0,0
 "Ewok Scout",71,22,4,0,0,0
@@ -74,15 +74,15 @@ Name,Count,G10+,G12+,G13,leader zeta,other zeta
 "Garazeb "Zeb" Orrelios",71,17,7,1,0,15
 "General Grievous",64,43,29,15,37,37
 "General Hux",57,9,8,5,0,9
-"General Kenobi",56,49,47,32,0,44
-"General Skywalker",11,9,8,6,10,26
-"General Veers",66,30,8,1,0,16
+"General Kenobi",56,49,47,33,0,44
+"General Skywalker",11,9,8,7,10,26
+"General Veers",66,31,8,1,0,16
 "Geonosian Brood Alpha",46,39,24,5,36,38
 "Geonosian Soldier",71,45,31,1,0,0
 "Geonosian Spy",64,40,18,0,0,0
 "Grand Admiral Thrawn",66,44,40,8,15,43
-"Grand Master Yoda",69,61,55,29,32,58
-"Grand Moff Tarkin",71,45,23,3,12,16
+"Grand Master Yoda",69,61,55,29,33,58
+"Grand Moff Tarkin",71,45,24,3,12,16
 "Greedo",67,35,18,0,0,14
 "Greef Karga",56,1,1,1,0,5
 "HK-47",64,46,33,10,0,66
@@ -136,13 +136,13 @@ Name,Count,G10+,G12+,G13,leader zeta,other zeta
 "Padmé Amidala",54,39,35,20,43,41
 "Pao",54,3,0,0,0,0
 "Paploo",65,43,10,1,0,28
-"Plo Koon",62,12,3,0,0,0
+"Plo Koon",62,13,3,0,0,0
 "Poe Dameron",66,22,10,2,0,0
 "Poggle the Lesser",67,44,32,1,0,0
 "Princess Leia",71,37,13,2,0,16
 "Qi'ra",57,13,1,0,0,3
 "Qui-Gon Jinn",68,22,10,0,7,0
-"R2-D2",69,53,41,14,0,97
+"R2-D2",69,53,41,14,0,98
 "Range Trooper",55,3,2,0,0,0
 "Rebel Officer Leia Organa",61,9,7,5,0,4
 "Resistance Hero Finn",59,3,3,2,0,2
@@ -155,12 +155,12 @@ Name,Count,G10+,G12+,G13,leader zeta,other zeta
 "Rose Tico",54,2,1,1,0,0
 "Royal Guard",71,9,1,0,0,0
 "Sabine Wren",70,20,6,1,0,13
-"Savage Opress",62,25,9,0,0,11
+"Savage Opress",63,25,9,0,0,11
 "Scarif Rebel Pathfinder",65,1,0,0,0,0
-"Shaak Ti",57,24,20,4,21,22
+"Shaak Ti",57,24,20,4,22,22
 "Shoretrooper",53,7,1,0,0,0
 "Sith Assassin",57,1,1,0,0,0
-"Sith Empire Trooper",54,20,16,6,0,0
+"Sith Empire Trooper",54,20,17,6,0,0
 "Sith Marauder",58,6,6,0,0,0
 "Sith Trooper",58,5,3,2,0,5
 "Snowtrooper",71,8,2,1,0,0
@@ -184,8 +184,8 @@ Name,Count,G10+,G12+,G13,leader zeta,other zeta
 "Visas Marr",56,2,2,2,0,4
 "Wampa",45,25,19,11,0,36
 "Wedge Antilles",68,27,12,2,0,0
-"Wicket",65,44,14,1,0,33
+"Wicket",65,44,15,1,0,33
 "Young Han Solo",62,3,1,0,0,2
 "Young Lando Calrissian",63,5,0,0,0,0
-"Zaalbar",66,37,20,0,0,29
+"Zaalbar",66,37,20,0,0,30
 "Zam Wesell",63,17,8,0,0,7
