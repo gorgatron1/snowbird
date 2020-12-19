@@ -1,0 +1,76 @@
+<style type="text/css">
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  padding: 8px;
+}
+
+tr:nth-child(even) {background: #dddddd}
+tr:nth-child(odd) {background: #ffffff}
+
+.toggleable {
+    display: none;
+}
+</style><link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" />
+<link rel="stylesheet" href="https://cdn.datatables.net/fixedheader/3.1.5/css/fixedHeader.dataTables.min.css" />
+<link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.6/css/fixedColumns.dataTables.min.css" />
+<script type="text/javascript" language="javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/fixedheader/3.1.5/js/dataTables.fixedHeader.min.js"></script>
+<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/fixedcolumns/3.2.6/js/dataTables.fixedColumns.min.js"></script>    <script>
+    $(document).ready( function () {
+        $('#schedule').DataTable({
+        "paging":   false,
+        "info":     false,
+        
+        
+        
+        fixedColumns: { leftColumns: 1 }, scrollX: true,
+        });
+    } );
+    </script><title>Guild Reports: Challenge Rancor Schedule</title>
+<div style="display: flex; align-items:baseline"><h1>Guild Reports: Challenge Rancor Schedule</h1></div>
+
+<div style="background-color: #f0f0f0; border: solid red; padding: 10px; border-radius: 10px">
+<a href="../../alliance/index.html">Alliance</a> |
+<a href="index.html">Back</a>
+</div>
+<br/>Note: some teams may overlap.
+<br/>
+<br/>
+<button onclick="$('.not-viable').text('&nbsp;').css('background-color', '')">remove not ready</button><br/>
+
+
+<table id="schedule" class="display" style="font-size: 75%">
+    <thead>
+        <tr>
+        <th>Player</th>
+        <th>Team Count</th><th>R5+ Count</th><th>P1</th><th>P2/3</th><th>P4</th><th>P4</th>        </tr>
+    </thead>
+    <tbody><tr><td nowrap>BluecoatKnight</td><td>1</td><td>0</td><td nowrap>&nbsp;</td><td nowrap>&nbsp;</td><td nowrap>&nbsp;</td><td nowrap>&nbsp;</td></tr>
+<tr><td nowrap>Ceth Senpai</td><td>1</td><td>0</td><td nowrap>&nbsp;</td><td nowrap>&nbsp;</td><td nowrap>&nbsp;</td><td nowrap>&nbsp;</td></tr>
+<tr><td nowrap>Cvc1515</td><td>1</td><td>1</td><td nowrap>&nbsp;</td><td nowrap>&nbsp;</td><td nowrap>&nbsp;</td><td nowrap>&nbsp;</td></tr>
+<tr><td nowrap>Eckle Merasska</td><td>1</td><td>0</td><td nowrap>&nbsp;</td><td nowrap>&nbsp;</td><td nowrap class="not-viable" style="background-color: yellow;">(Sith) zzGG G12, B1 3* G2, MagnaGuard G5, B2 6* G3, zDooku G12</td><td nowrap>&nbsp;</td></tr>
+<tr><td nowrap>Eltiko</td><td>1</td><td>0</td><td nowrap>&nbsp;</td><td nowrap>&nbsp;</td><td nowrap>&nbsp;</td><td nowrap>&nbsp;</td></tr>
+<tr><td nowrap>EmperorZach</td><td>1</td><td>0</td><td nowrap>&nbsp;</td><td nowrap>&nbsp;</td><td nowrap>&nbsp;</td><td nowrap>&nbsp;</td></tr>
+<tr><td nowrap>FoldupManatee</td><td>1</td><td>0</td><td nowrap>&nbsp;</td><td nowrap>&nbsp;</td><td nowrap>&nbsp;</td><td nowrap>&nbsp;</td></tr>
+<tr><td nowrap>Iglooz R Cool</td><td>1</td><td>0</td><td nowrap>&nbsp;</td><td nowrap>&nbsp;</td><td nowrap>&nbsp;</td><td nowrap>&nbsp;</td></tr>
+<tr><td nowrap>Jason Austin</td><td>1</td><td>1</td><td nowrap>&nbsp;</td><td nowrap>&nbsp;</td><td nowrap>&nbsp;</td><td nowrap>&nbsp;</td></tr>
+<tr><td nowrap>Joinacult</td><td>1</td><td>0</td><td nowrap>&nbsp;</td><td nowrap>&nbsp;</td><td nowrap>&nbsp;</td><td nowrap>&nbsp;</td></tr>
+<tr><td nowrap>Mousechowder</td><td>0</td><td>4</td><td nowrap class="not-viable" style="background-color: yellow;">(Padme) Padme G7, JKA G9, GK 6* G8, Ahsoka G10, zzC-3PO G12</td><td nowrap class="not-viable" style="background-color: yellow;">(BH) zzAurra G12, Greef Karga 5* G7, zzBossk G12, zzJango G12, zBoba R4</td><td nowrap class="not-viable" style="background-color: yellow;">(Rebels) zzzCLS R2, zzChewbacca 6* G9, zHan G11, Chewpio 3* G8, zzC-3PO G12</td><td nowrap class="not-viable" style="background-color: yellow;">(FO) Hux 3* G7, Sith Trooper 3* G4, zzKRU G12, FOE 5* G9, FOST 6* G9</td></tr>
+<tr><td nowrap>Muddgette</td><td>1</td><td>0</td><td nowrap>&nbsp;</td><td nowrap>&nbsp;</td><td nowrap>&nbsp;</td><td nowrap>&nbsp;</td></tr>
+<tr><td nowrap>Polo</td><td>1</td><td>0</td><td nowrap>&nbsp;</td><td nowrap>&nbsp;</td><td nowrap>&nbsp;</td><td nowrap>&nbsp;</td></tr>
+<tr><td nowrap>Reaper of Rhodium</td><td>1</td><td>0</td><td nowrap>&nbsp;</td><td nowrap>&nbsp;</td><td nowrap>&nbsp;</td><td nowrap>&nbsp;</td></tr>
+<tr><td nowrap>Sherveen Muschifurche</td><td>1</td><td>0</td><td nowrap>&nbsp;</td><td nowrap>&nbsp;</td><td nowrap>&nbsp;</td><td nowrap>&nbsp;</td></tr>
+<tr><td nowrap>Squuak Keek</td><td>1</td><td>3</td><td nowrap class="not-viable" style="background-color: yellow;">(Padme) zPadme 6* G7, JKA G11, zGK 6* G11, Ahsoka G9, zzC-3PO G12</td><td nowrap class="not-viable" style="background-color: yellow;">(501st) Shaak Ti 3* G6, Fives G8, Rex G7, Echo G7, zzC-3PO G12</td><td nowrap class="not-viable" style="background-color: yellow;">(Rebels) zzzCLS G12, Chewbacca 6* G7, zHan R5, Chewpio 3* G2, zzC-3PO G12</td><td nowrap>&nbsp;</td></tr>
+<tr><td nowrap>Sublimed Cactus</td><td>1</td><td>0</td><td nowrap>&nbsp;</td><td nowrap>&nbsp;</td><td nowrap>&nbsp;</td><td nowrap>&nbsp;</td></tr>
+<tr><td nowrap>Toadmushe</td><td>1</td><td>3</td><td nowrap>&nbsp;</td><td nowrap class="not-viable" style="background-color: yellow;">(501st) zzShaak Ti G11, zzFives G12, zRex G12, zEcho G10, zzC-3PO 5* G8</td><td nowrap>&nbsp;</td><td nowrap>&nbsp;</td></tr>
+<tfoot><tr><td></td><td>17</td><td>12</td><td>0</td><td>0</td><td>0</td><td></td></tr></tfoot>
+    </tbody>
+</table><br/>
+<font size="-2">Generated 2020-12-19 01:44:06 +0000</font>
