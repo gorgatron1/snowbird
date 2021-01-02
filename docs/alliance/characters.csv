@@ -19,18 +19,18 @@ Name,Count,G10+,G12+,G13,leader zeta,other zeta
 "Bistan",63,2,0,0,0,0
 "Boba Fett",65,55,48,8,0,44
 "Bodhi Rook",61,1,0,0,0,0
-"Bossk",63,50,48,19,52,39
+"Bossk",63,51,48,19,52,39
 "C-3PO",47,43,40,23,0,85
 "CC-2224 "Cody"",63,16,6,0,5,0
-"CT-21-0408 "Echo"",62,34,22,8,0,24
-"CT-5555 "Fives"",65,34,24,10,0,54
-"CT-7567 "Rex"",62,41,32,8,0,31
-"Cad Bane",64,48,14,0,0,0
+"CT-21-0408 "Echo"",63,34,22,8,0,24
+"CT-5555 "Fives"",65,35,25,10,0,54
+"CT-7567 "Rex"",62,42,33,8,0,31
+"Cad Bane",64,48,15,0,0,0
 "Canderous Ordo",58,37,21,0,0,21
-"Captain Han Solo",38,11,11,8,0,6
+"Captain Han Solo",38,12,11,8,0,6
 "Captain Phasma",65,21,12,5,10,0
-"Cara Dune",55,1,1,0,0,1
-"Carth Onasi",59,44,12,0,42,0
+"Cara Dune",56,1,1,0,0,1
+"Carth Onasi",60,44,12,0,42,0
 "Cassian Andor",63,15,5,0,0,8
 "Chewbacca",52,39,31,20,0,72
 "Chief Chirpa",57,40,12,1,48,0
@@ -44,7 +44,7 @@ Name,Count,G10+,G12+,G13,leader zeta,other zeta
 "Coruscant Underworld Police",59,0,0,0,0,0
 "Count Dooku",66,50,35,11,0,39
 "Darth Malak",33,32,19,12,0,62
-"Darth Maul",64,36,8,2,12,0
+"Darth Maul",64,36,9,2,12,0
 "Darth Nihilus",62,34,28,3,16,26
 "Darth Revan",44,42,42,36,44,87
 "Darth Sidious",62,24,11,3,0,9
@@ -55,7 +55,7 @@ Name,Count,G10+,G12+,G13,leader zeta,other zeta
 "Death Trooper",62,10,3,0,0,1
 "Dengar",65,26,18,0,0,13
 "Director Krennic",52,5,3,1,4,0
-"Droideka",57,29,23,13,0,31
+"Droideka",57,29,23,14,0,31
 "Eeth Koth",57,3,0,0,0,0
 "Embo",55,4,2,0,1,3
 "Emperor Palpatine",66,56,47,26,50,50
@@ -68,15 +68,15 @@ Name,Count,G10+,G12+,G13,leader zeta,other zeta
 "First Order Officer",63,35,13,7,0,0
 "First Order SF TIE Pilot",57,9,7,5,0,0
 "First Order Stormtrooper",66,14,11,8,0,12
-"First Order TIE Pilot",67,32,11,6,0,12
+"First Order TIE Pilot",67,32,11,7,0,12
 "Gamorrean Guard",31,1,0,0,0,0
-"Gar Saxon",61,3,1,0,1,0
+"Gar Saxon",62,3,1,0,1,0
 "Garazeb "Zeb" Orrelios",67,18,7,1,0,17
-"General Grievous",61,44,32,16,41,39
-"General Hux",56,11,9,7,0,11
-"General Kenobi",55,51,47,37,0,48
-"General Skywalker",16,13,10,8,15,40
-"General Veers",64,31,13,4,0,21
+"General Grievous",61,44,32,16,41,40
+"General Hux",56,11,9,7,0,12
+"General Kenobi",55,51,48,37,0,48
+"General Skywalker",16,14,10,8,15,41
+"General Veers",64,31,14,4,0,21
 "Geonosian Brood Alpha",50,41,32,10,40,43
 "Geonosian Soldier",67,47,40,2,0,0
 "Geonosian Spy",61,43,29,1,0,0
@@ -85,8 +85,8 @@ Name,Count,G10+,G12+,G13,leader zeta,other zeta
 "Grand Moff Tarkin",67,44,26,7,15,21
 "Greedo",65,37,19,1,0,16
 "Greef Karga",56,5,3,1,0,14
-"HK-47",62,46,34,14,0,78
-"Han Solo",63,51,36,18,0,49
+"HK-47",62,46,35,14,0,78
+"Han Solo",63,51,36,18,0,50
 "Hera Syndulla",66,33,10,2,0,16
 "Hermit Yoda",46,32,21,12,0,44
 "Hoth Rebel Scout",64,4,3,0,0,0
@@ -94,7 +94,7 @@ Name,Count,G10+,G12+,G13,leader zeta,other zeta
 "IG-100 MagnaGuard",66,29,24,5,0,20
 "IG-11",50,1,0,0,0,1
 "IG-86 Sentinel Droid",67,4,0,0,0,0
-"IG-88",64,50,16,0,0,17
+"IG-88",64,50,16,0,0,18
 "Ima-Gun Di",50,2,0,0,0,0
 "Imperial Probe Droid",44,1,1,0,0,1
 "Imperial Super Commando",57,0,0,0,0,0
@@ -103,9 +103,9 @@ Name,Count,G10+,G12+,G13,leader zeta,other zeta
 "Jawa Engineer",41,3,2,0,0,0
 "Jawa Scavenger",61,4,3,1,0,0
 "Jedi Consular",67,19,2,0,0,0
-"Jedi Knight Anakin",61,52,45,21,0,43
+"Jedi Knight Anakin",61,52,45,22,0,43
 "Jedi Knight Guardian",66,1,0,0,0,0
-"Jedi Knight Luke Skywalker",6,5,4,4,5,6
+"Jedi Knight Luke Skywalker",6,5,5,4,6,6
 "Jedi Knight Revan",48,47,45,35,48,93
 "Jedi Master Luke Skywalker",1,1,1,1,1,5
 "Jolee Bindo",64,53,48,13,0,53
@@ -129,19 +129,19 @@ Name,Count,G10+,G12+,G13,leader zeta,other zeta
 "Mob Enforcer",61,0,0,0,0,0
 "Moff Gideon",54,0,0,0,0,1
 "Mon Mothma",55,3,2,2,5,6
-"Mother Talzin",64,35,25,5,38,27
+"Mother Talzin",64,35,26,5,38,28
 "Nightsister Acolyte",50,10,4,0,0,0
 "Nightsister Initiate",62,5,2,2,0,2
 "Nightsister Spirit",65,11,6,1,0,0
 "Nightsister Zombie",65,39,16,1,0,0
 "Nute Gunray",63,40,8,0,0,22
 "Obi-Wan Kenobi (Old Ben)",65,36,26,5,0,29
-"Old Daka",63,39,19,4,0,25
+"Old Daka",63,39,19,4,0,26
 "Padmé Amidala",55,40,38,23,45,44
 "Pao",56,3,0,0,0,1
-"Paploo",61,47,11,1,0,27
+"Paploo",61,47,11,1,0,28
 "Plo Koon",61,14,4,0,0,0
-"Poe Dameron",64,22,11,2,0,0
+"Poe Dameron",64,22,11,3,0,0
 "Poggle the Lesser",64,47,37,1,0,0
 "Princess Leia",67,39,15,3,0,15
 "Qi'ra",59,15,2,0,0,5
@@ -161,8 +161,8 @@ Name,Count,G10+,G12+,G13,leader zeta,other zeta
 "Sabine Wren",66,21,6,2,0,15
 "Savage Opress",60,27,11,1,0,13
 "Scarif Rebel Pathfinder",64,1,0,0,0,0
-"Shaak Ti",55,38,33,10,31,36
-"Shoretrooper",53,7,1,0,0,0
+"Shaak Ti",55,38,34,10,32,37
+"Shoretrooper",54,7,1,0,0,0
 "Sith Assassin",57,2,2,0,0,0
 "Sith Empire Trooper",54,23,21,6,0,0
 "Sith Marauder",57,10,8,1,0,0
@@ -187,10 +187,10 @@ Name,Count,G10+,G12+,G13,leader zeta,other zeta
 "Veteran Smuggler Han Solo",64,13,8,6,0,6
 "Visas Marr",55,2,2,2,0,4
 "Wampa",49,28,24,17,0,51
-"Wat Tambor",42,5,0,0,0,15
+"Wat Tambor",47,5,0,0,0,15
 "Wedge Antilles",65,30,14,4,0,0
 "Wicket",61,45,15,1,0,31
 "Young Han Solo",60,3,1,0,0,2
 "Young Lando Calrissian",60,6,0,0,0,2
-"Zaalbar",62,42,24,1,0,35
+"Zaalbar",63,42,24,1,0,35
 "Zam Wesell",60,17,9,0,0,8
