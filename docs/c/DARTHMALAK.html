@@ -299,12 +299,12 @@ Plotly.newPlot('mc-1', traces, layout)
 }
 </script><h2>Alliance Demographic Data</h2>Based on 34 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="uniqueskill_DARTHMALAK01"><img src="https://swgoh.gg/game-asset/a/uniqueskill_DARTHMALAK01/" style="width: 30px" /> Gnawing Terror</td><td>Add at the end of each turn, enemies who inflicted Damage Over Time on Darth Malak or critically hit him this turn are inflicted with Fear for 1 turn, which can't be resisted or evaded</td><td>32</td><td>94%</td></tr><tr><td data-order="uniqueskill_DARTHMALAK02"><img src="https://swgoh.gg/game-asset/a/uniqueskill_DARTHMALAK02/" style="width: 30px" /> Jaws of Life</td><td>Add the first time Darth Malak reaches each of these thresholds, he gains a bonus turn and the cooldown of Drain Life is reset</td><td>32</td><td>94%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 0, 0, 0, 0, 1, 0, 0, 0, 1, 2, 8, 8, 0, 0, 3, 1, 1, 5, 0, 4, 0 ],
+    y: [ 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 9, 8, 0, 0, 3, 1, 1, 5, 0, 4, 0 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 0.0, 0.0, 0.0, 0.0, 2.941176470588235, 2.941176470588235, 2.941176470588235, 2.941176470588235, 5.88235294117647, 11.76470588235294, 35.29411764705882, 58.823529411764696, 58.823529411764696, 58.823529411764696, 67.6470588235294, 70.58823529411764, 73.52941176470587, 88.23529411764704, 88.23529411764704, 99.99999999999999, 99.99999999999999 ],
+    y: [ 0.0, 0.0, 0.0, 0.0, 2.941176470588235, 2.941176470588235, 2.941176470588235, 2.941176470588235, 5.88235294117647, 8.823529411764705, 35.294117647058826, 58.82352941176471, 58.82352941176471, 58.82352941176471, 67.64705882352942, 70.58823529411765, 73.52941176470588, 88.23529411764706, 88.23529411764706, 100.0, 100.0 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -324,4 +324,4 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2021-02-03 16:34:41 +0000</font>
+<font size="-2">Generated 2021-02-05 02:46:14 +0000</font>
