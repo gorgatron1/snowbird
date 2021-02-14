@@ -1,11 +1,11 @@
 Name,Count,G10+,G13+,R5,leader zeta,other zeta
-"ARC Trooper",40,20,9,5,0,22
+"ARC Trooper",40,20,10,5,0,22
 "Aayla Secura",46,1,0,0,0,0
 "Admiral Ackbar",67,38,2,0,0,0
 "Admiral Piett",58,6,1,1,0,20
 "Ahsoka Tano",67,54,18,6,0,49
 "Ahsoka Tano (Fulcrum)",59,9,0,0,0,4
-"Amilyn Holdo",59,8,3,2,0,5
+"Amilyn Holdo",59,9,3,2,0,5
 "Asajj Ventress",65,53,16,4,36,45
 "Aurra Sing",52,10,1,1,4,5
 "B1 Battle Droid",57,40,26,10,0,36
@@ -57,7 +57,7 @@ Name,Count,G10+,G13+,R5,leader zeta,other zeta
 "Director Krennic",54,6,3,0,4,0
 "Droideka",58,34,16,3,0,35
 "Eeth Koth",58,3,0,0,0,0
-"Embo",55,4,0,0,2,3
+"Embo",55,5,0,0,2,3
 "Emperor Palpatine",66,57,26,14,50,52
 "Enfys Nest",59,25,1,0,0,21
 "Ewok Elder",67,51,0,0,0,0
@@ -82,7 +82,7 @@ Name,Count,G10+,G13+,R5,leader zeta,other zeta
 "Geonosian Spy",62,46,2,1,0,0
 "Grand Admiral Thrawn",62,45,14,7,20,45
 "Grand Master Yoda",65,59,32,15,33,58
-"Grand Moff Tarkin",67,44,7,0,15,21
+"Grand Moff Tarkin",67,44,7,0,15,22
 "Greedo",65,38,1,0,0,17
 "Greef Karga",56,6,1,1,0,17
 "HK-47",63,46,14,5,0,84
@@ -127,7 +127,7 @@ Name,Count,G10+,G13+,R5,leader zeta,other zeta
 "Magmatrooper",64,2,1,0,0,0
 "Mission Vao",61,44,2,0,0,40
 "Mob Enforcer",61,0,0,0,0,0
-"Moff Gideon",54,0,0,0,1,1
+"Moff Gideon",55,0,0,0,1,1
 "Mon Mothma",55,4,4,4,6,6
 "Mother Talzin",65,35,6,2,38,29
 "Nightsister Acolyte",50,10,0,0,0,0
@@ -161,7 +161,7 @@ Name,Count,G10+,G13+,R5,leader zeta,other zeta
 "Sabine Wren",66,21,2,1,0,15
 "Savage Opress",60,27,1,0,0,13
 "Scarif Rebel Pathfinder",64,1,0,0,0,0
-"Shaak Ti",56,39,13,4,33,39
+"Shaak Ti",56,40,14,4,33,39
 "Shoretrooper",56,9,0,0,0,0
 "Sith Assassin",58,2,0,0,0,0
 "Sith Empire Trooper",56,23,7,1,0,0
@@ -181,7 +181,7 @@ Name,Count,G10+,G13+,R5,leader zeta,other zeta
 "The Mandalorian",59,10,1,1,7,13
 "Threepio & Chewie",53,5,5,4,0,5
 "Tusken Raider",62,1,0,0,0,0
-"Tusken Shaman",60,2,0,0,0,0
+"Tusken Shaman",61,2,0,0,0,0
 "URoRRuR'R'R",41,1,0,0,0,0
 "Ugnaught",62,0,0,0,0,0
 "Vandor Chewbacca",58,0,0,0,0,0
