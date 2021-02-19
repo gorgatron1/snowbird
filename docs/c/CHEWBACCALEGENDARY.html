@@ -1,4 +1,5 @@
-<meta charset="UTF-8"><link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" />
+<meta charset="UTF-8">
+<meta name="robots" content="noindex"><link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" />
 <link rel="stylesheet" href="https://cdn.datatables.net/fixedheader/3.1.5/css/fixedHeader.dataTables.min.css" />
 <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.6/css/fixedColumns.dataTables.min.css" />
 <script type="text/javascript" language="javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
@@ -302,14 +303,14 @@ let traces = [];traces.push({
 }
 Plotly.newPlot('mc-1', traces, layout)
 }
-</script><h2>Alliance Demographic Data</h2>Based on 52 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="uniqueskill_CHEWBACCALEGENDARY01"><img src="https://swgoh.gg/game-asset/a/uniqueskill_CHEWBACCALEGENDARY01/" style="width: 30px" /> Loyal Friend</td><td>When Chewbacca deals damage to an enemy, Chewbacca and all Guarded allies recover 3% Health and 3% Protection</td><td>42</td><td>81%</td></tr><tr><td data-order="uniqueskill_CHEWBACCALEGENDARY02"><img src="https://swgoh.gg/game-asset/a/uniqueskill_CHEWBACCALEGENDARY02/" style="width: 30px" /> Raging Wookiee</td><td>Chewbacca is immune to Ability Block and Cooldown Increase</td><td>37</td><td>71%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
+</script><h2>Alliance Demographic Data</h2>Based on 53 units.<table id="zetas"><thead><tr><th>Name</th><th>Description</th><th>Count</th><th>Percent</th></tr></thead><tr><td data-order="uniqueskill_CHEWBACCALEGENDARY01"><img src="https://swgoh.gg/game-asset/a/uniqueskill_CHEWBACCALEGENDARY01/" style="width: 30px" /> Loyal Friend</td><td>When Chewbacca deals damage to an enemy, Chewbacca and all Guarded allies recover 3% Health and 3% Protection</td><td>42</td><td>79%</td></tr><tr><td data-order="uniqueskill_CHEWBACCALEGENDARY02"><img src="https://swgoh.gg/game-asset/a/uniqueskill_CHEWBACCALEGENDARY02/" style="width: 30px" /> Raging Wookiee</td><td>Chewbacca is immune to Ability Block and Cooldown Increase</td><td>38</td><td>72%</td></tr></table><br/><br/><div id="gearLevels-chart" style="width:80%;height:800px" /><script>
 let trace = {
-    y: [ 1, 0, 0, 0, 0, 0, 0, 7, 3, 1, 7, 12, 0, 0, 2, 8, 4, 2, 3, 2, 0 ],
+    y: [ 1, 0, 0, 0, 0, 1, 0, 7, 3, 1, 6, 13, 0, 0, 2, 8, 4, 2, 3, 2, 0 ],
     type: "bar",
     name: "Number of Players"
 }
 let trace2 = {
-    y: [ 1.9230769230769231, 1.9230769230769231, 1.9230769230769231, 1.9230769230769231, 1.9230769230769231, 1.9230769230769231, 1.9230769230769231, 15.384615384615385, 21.153846153846153, 23.076923076923077, 36.53846153846154, 59.61538461538461, 59.61538461538461, 59.61538461538461, 63.46153846153846, 78.84615384615384, 86.53846153846153, 90.38461538461537, 96.15384615384615, 99.99999999999999, 99.99999999999999 ],
+    y: [ 1.8867924528301887, 1.8867924528301887, 1.8867924528301887, 1.8867924528301887, 1.8867924528301887, 3.7735849056603774, 3.7735849056603774, 16.9811320754717, 22.641509433962266, 24.528301886792455, 35.84905660377359, 60.37735849056604, 60.37735849056604, 60.37735849056604, 64.15094339622641, 79.24528301886792, 86.79245283018868, 90.56603773584905, 96.22641509433961, 99.99999999999999, 99.99999999999999 ],
     yaxis: "y2",
     type: "line",
     name: "Cumulative % Players"
@@ -329,4 +330,5 @@ let layout = {
 }
 Plotly.newPlot('gearLevels-chart', [trace, trace2], layout)
 </script><br/>
-<font size="-2">Generated 2021-02-17 18:32:01 +0000</font>
+<font size="-2">Generated 2021-02-19 18:33:38 +0000</font>
+<script data-goatcounter="https://gorgatron.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
